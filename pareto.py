@@ -1,7 +1,7 @@
 import pandas as pd
 
 
-class abc_curve:
+class CurveABC:
     """
     read Series (from DataFrame -> column name) and returns an DataFrame with rank, % of itens, % of total values
     """
